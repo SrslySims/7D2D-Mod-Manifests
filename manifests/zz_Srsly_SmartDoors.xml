@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModUpdate>
+  <Name value="zz_Srsly_SmartDoors" />
+  <DisplayName value="Smart Doors" />
+  <Version value="1.5.0" />
+  <GameVersion value="3.0.0" />
+  <Author value="Srsly" />
+  <Website value="" />
+  <SkipWithAntiCheat value="true" />
+  <ModIcon value="Textures/icon.png" />
+  <ModBanner value="Textures/banner.png" />
+  <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_SmartDoors.xml" />
+  <Changelog value="Initial update manifest." />
+</ModUpdate>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModUpdate>
+  <Name value="zz_Srsly_SkipNewsScreen" />
+  <DisplayName value="Skip News Screen" />
+  <Version value="1.0.1" />
+  <GameVersion value="3.0.0" />
+  <Author value="Srsly" />
+  <Website value="" />
+  <SkipWithAntiCheat value="true" />
+  <ModIcon value="Textures/icon.png" />
+  <ModBanner value="Textures/banner.png" />
+  <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_SkipNewsScreen.xml" />
+  <Changelog value="Initial update manifest." />
+</ModUpdate>
