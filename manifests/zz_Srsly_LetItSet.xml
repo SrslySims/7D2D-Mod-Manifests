@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModUpdate>
   <Name value="zz_Srsly_LetItSet" />
-  <DisplayName value="Srsly Let It Set" />
+  <DisplayName value="Let It Set" />
+  <Description value="" />
   <Version value="0.1.0" />
-  <GameVersion value="3.0.0" />
+  <GameVersion value="3.0" />
   <Author value="Srsly" />
   <Website value="https://7daystodiemods.com/profiles/srsly" />
   <SkipWithAntiCheat value="true" />
-  
-  <ModIcon value="Textures/icon.png" />
-  <ModBanner value="Textures/banner.png" />
+  <ModIcon value="ModsManager/icon.png" />
+  <ModBanner value="ModsManager/banner.png" />
   <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_LetItSet.xml" />
-  <Changelog value="Initial update manifest." />
 </ModUpdate>
