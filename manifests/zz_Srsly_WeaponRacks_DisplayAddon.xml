@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModUpdate>
+  <Name value="zz_Srsly_WeaponRacks_DisplayAddon" />
+  <DisplayName value="Weapon Racks Display Addon" />
+  <Description value="Adds free-placement display support for weapons and tools." />
+  <Author value="Srsly" />
+  <Version value="1.0.0" />
+  <GameVersion value="3.0.0" />
+  <Website value="https://7daystodiemods.com/profiles/srsly" />
+  <SkipWithAntiCheat value="true" />
+  <ModIcon value="ModsManager/icon.png" />
+  <ModBanner value="ModsManager/banner.png" />
+  <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_WeaponRacks_DisplayAddon.xml" />
+  <Changelog value="Initial update manifest." />
+</ModUpdate>

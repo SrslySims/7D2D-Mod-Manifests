@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModUpdate>
   <Name value="zz_Srsly_ImmersiveRPGHUD" />
   <DisplayName value="Immersive RPG HUD" />
-  <Description value="A compact RPG-inspired HUD overhaul with redesigned survival vitals, polished top HUD panels, configurable toolbelt auto-hide, optional 15-slot toolbelt support, and in-game HUD toggles." />
+  <Description value="A compact RPG-inspired HUD overhaul with redesigned survival vitals, polished top HUD panels, configurable toolbelt auto-hide, optional 15-slot toolbelt support, and restart-based config toggles." />
   <Version value="2.0.0" />
   <GameVersion value="3.0" />
   <Author value="Srsly" />

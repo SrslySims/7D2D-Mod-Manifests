@@ -2,13 +2,14 @@
 <ModUpdate>
   <Name value="zz_Srsly_WeaponRacks" />
   <DisplayName value="Weapon Racks" />
-  <Description value="" />
+  <Description value="Craftable colored weapon racks for displaying weapons and tools with dye preservation, attachment visuals, advanced rotation, locking, and modded weapon support." />
   <Version value="1.6.0" />
-  <GameVersion value="3.0" />
+  <GameVersion value="3.0.0" />
   <Author value="Srsly" />
   <Website value="https://7daystodiemods.com/profiles/srsly" />
   <SkipWithAntiCheat value="true" />
   <ModIcon value="ModsManager/icon.png" />
   <ModBanner value="ModsManager/banner.png" />
   <UpdateManifest value="https://raw.githubusercontent.com/SrslySims/7D2D-Mod-Manifests/main/manifests/zz_Srsly_WeaponRacks.xml" />
+  <Changelog value="Initial update manifest." />
 </ModUpdate>
